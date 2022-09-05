@@ -107,3 +107,5 @@ df.rename(index = {'준서':'학생1', '예은':'학생2'}, inplace = True)
 
 # df 출력(변경 후)
 print(df)
+
+# 
